@@ -4,7 +4,7 @@ I make civil/structural engineering apps and other personal projects. I also hav
 
 📺 Latest YouTube Videos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=58U-yXBp7Ik"><img width="140px" src="http://img.youtube.com/vi/58U-yXBp7Ik/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=58U-yXBp7Ik">Simple Curves - Example 1 | Surveying &lpar;🇵🇭 Tagalog 🇵🇭&rpar;</a><br/>Jun 7, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=58U-yXBp7Ik">Example 1 - Simple Curve | Surveying &lpar;🇵🇭 Tagalog 🇵🇭&rpar;</a><br/>Jun 7, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=XhYYdh3L_Ss"><img width="140px" src="http://img.youtube.com/vi/XhYYdh3L_Ss/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XhYYdh3L_Ss">Design of Isolated Footings | Foundation Engineering</a><br/>Mar 6, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=r9VJTqMyWCE"><img width="140px" src="http://img.youtube.com/vi/r9VJTqMyWCE/maxresdefault.jpg"></a></td>
