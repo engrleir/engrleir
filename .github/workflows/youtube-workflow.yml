@@ -10,8 +10,8 @@ on:
 #    │ │ │ │ │
 #    │ │ │ │ │
 #    * * * * *
-# runs every week
-    - cron: "* * * * 0"
+# runs every month
+    - cron: "* * 1 * *"
   workflow_dispatch:
 permissions:
   contents: write
